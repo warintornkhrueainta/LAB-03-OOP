@@ -138,5 +138,6 @@ Expire Date: 2026-01-10
 สามารถนำไปใช้เป็นพื้นฐานสำหรับระบบจัดการสินค้าที่ซับซ้อนขึ้นในอนาคตได้
 
 ---
+<img width="578" height="457" alt="image" src="https://github.com/user-attachments/assets/70033166-acb2-483d-b9c8-8b4827d356dc" />
 
 📚 **จัดทำเพื่อการศึกษา – Lab Dart03**
